@@ -3,4 +3,3 @@ langgraph
 langchain
 langchain-core
 openai
-transformers
